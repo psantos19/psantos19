@@ -112,11 +112,11 @@ https://github.com/YOUR_GITHUB_USERNAME/bandini
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=psantos19&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psantos19&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -149,13 +149,10 @@ Outside of engineering:
 LinkedIn  
 https://www.linkedin.com/in/pedro-santos-b05076268/
 
-Email  
-pedrojgmsantos@gmail.com
-
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-contribution-grid-snake.svg" />
 </p>
