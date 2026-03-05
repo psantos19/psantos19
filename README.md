@@ -97,7 +97,7 @@ Tech
 `React` `JavaScript` `SQL`
 
 Repository  
-https://github.com/psantos19/spotopark </p>
+https://github.com/psantos19/spotopark </br>
 https://github.com/psantos19/spotoparkApp
 
 ---
@@ -108,9 +108,9 @@ Frontend project developed with design students to create a clean and intuitive 
 Tech  
 `HTML` `CSS` `JavaScript`
 
-Repository
-https://github.com/luissilva60/vivaotejo </p>
-https://github.com/luissilva60/VivaoTejoSite </p>
+Repository </br>
+https://github.com/luissilva60/vivaotejo </br>
+https://github.com/luissilva60/VivaoTejoSite </br>
 https://github.com/luissilva60/VivaoTejoSitev2
 
 ---
@@ -121,8 +121,8 @@ E-commerce platform enabling artisans to showcase and sell handmade products.
 Tech  
 `React` `JavaScript`
 
-Repository
-https://github.com/luissilva60/BandiniSite </p>
+Repository </br>
+https://github.com/luissilva60/BandiniSite </br>
 https://github.com/luissilva60/BandiniAPI
 
 ---
