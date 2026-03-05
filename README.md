@@ -97,7 +97,7 @@ Tech
 `React` `JavaScript` `SQL`
 
 Repository  
-https://github.com/psantos19/spotopark
+https://github.com/psantos19/spotopark </p>
 https://github.com/psantos19/spotoparkApp
 
 ---
@@ -109,8 +109,8 @@ Tech
 `HTML` `CSS` `JavaScript`
 
 Repository
-https://github.com/luissilva60/vivaotejo
-https://github.com/luissilva60/VivaoTejoSite
+https://github.com/luissilva60/vivaotejo </p>
+https://github.com/luissilva60/VivaoTejoSite </p>
 https://github.com/luissilva60/VivaoTejoSitev2
 
 ---
@@ -122,7 +122,7 @@ Tech
 `React` `JavaScript`
 
 Repository
-https://github.com/luissilva60/BandiniSite
+https://github.com/luissilva60/BandiniSite </p>
 https://github.com/luissilva60/BandiniAPI
 
 ---
