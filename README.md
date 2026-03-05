@@ -1,11 +1,17 @@
+<!-- ===================================== -->
+<!--           PROFILE README              -->
+<!--        github.com/psantos19           -->
+<!-- ===================================== -->
+
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ADEF&center=true&vCenter=true&width=800&lines=Pedro+Santos;Network+Engineer+%7C+Developer;Cybersecurity+%26+Cloud+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ADEF&center=true&vCenter=true&width=900&lines=Pedro+Santos;Network+Engineer+%7C+Developer;Cybersecurity+%26+Cloud+Enthusiast" />
 </p>
 
 <p align="center">
-  Master's Student in Telecommunications & Computer Science Engineering  
-  Associate Connectivity & Network Engineer @ Capgemini Engineering
+Master's Student in Telecommunications & Computer Science Engineering  
+<br>
+Associate Connectivity & Network Engineer @ Capgemini Engineering
 </p>
 
 <p align="center">
@@ -20,10 +26,10 @@ I'm a Portuguese engineer passionate about **networking, cybersecurity and softw
 
 I use GitHub to document:
 
-- Projects
-- Learning experiments
-- Networking & cybersecurity labs
-- Open source contributions
+- personal projects  
+- learning experiments  
+- networking & cybersecurity labs  
+- open source contributions  
 
 Currently pursuing a **Master’s in Telecommunications and Computer Science Engineering**.
 
@@ -61,29 +67,34 @@ Currently pursuing a **Master’s in Telecommunications and Computer Science Eng
 <img src="https://skillicons.dev/icons?i=arduino,android" />
 </p>
 
-### Other Tools
+---
 
-- SQL  
-- Wireshark  
-- Apache Hadoop  
-- Apache Spark  
-- ROS  
-- Networking & Routing  
-- Cloud Computing  
-- Network Security  
+# 🧰 Tools & Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-Routing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network%20Security-darkred?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 📂 Featured Projects
 
+> Some projects were developed under collaborative repositories or academic organizations.
+
 ### 🚗 Spotopark
-Application that allows users to locate available parking spots.
+Full-stack application that allows users to locate available parking spots.
 
-Tech:  
+Tech  
 `React` `JavaScript` `SQL`
-
-Repository  
-https://github.com/YOUR_GITHUB_USERNAME/spotopark
 
 ---
 
@@ -93,9 +104,6 @@ Frontend project developed with design students to create a clean and intuitive 
 Tech  
 `HTML` `CSS` `JavaScript`
 
-Repository  
-https://github.com/YOUR_GITHUB_USERNAME/marinha-do-tejo
-
 ---
 
 ### 🛍️ Bandini
@@ -104,8 +112,41 @@ E-commerce platform enabling artisans to showcase and sell handmade products.
 Tech  
 `React` `JavaScript`
 
+---
+
+### 🛡️ Anti-Ransomware App
+
+Security application designed to detect and prevent ransomware activity.
+
+Tech  
+`Java` `Cybersecurity`
+
 Repository  
-https://github.com/YOUR_GITHUB_USERNAME/bandini
+https://github.com/luissilva60/AntiRansomwareApp
+
+---
+
+### 🌐 ADAD Frontend
+
+Frontend application developed as part of a distributed applications architecture project.
+
+Tech  
+`React` `JavaScript`
+
+Repository  
+https://github.com/luissilva60/ADAD-Front-end
+
+---
+
+### 🏠 Smart IoT Lab (openHAB)
+
+IoT smart environment built using **openHAB** to simulate smart-home automation and device orchestration.
+
+Tech  
+`IoT` `openHAB` `Automation`
+
+Repository  
+https://github.com/psantos19/openhab-4.1.0
 
 ---
 
@@ -123,10 +164,10 @@ https://github.com/YOUR_GITHUB_USERNAME/bandini
 
 # 🌱 Currently Learning
 
-- Cybersecurity
-- Network Engineering
-- Cloud Computing
-- Artificial Intelligence
+- Cybersecurity  
+- Network Engineering  
+- Cloud Computing  
+- Artificial Intelligence  
 
 Future projects will include **cybersecurity labs and networking experiments.**
 
@@ -149,6 +190,9 @@ Outside of engineering:
 LinkedIn  
 https://www.linkedin.com/in/pedro-santos-b05076268/
 
+Email  
+pedrojgmsantos@gmail.com
+
 ---
 
 # 🐍 Contribution Snake
@@ -156,3 +200,49 @@ https://www.linkedin.com/in/pedro-santos-b05076268/
 <p align="center">
   <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+<!-- ===================================== -->
+<!--        SNAKE ANIMATION WORKFLOW       -->
+<!--   CREATE FILE: .github/workflows/snake.yml -->
+<!-- ===================================== -->
+
+# Snake Animation Workflow
+
+Create this file in your repository:
+
+.github/workflows/snake.yml
+
+Then paste the following content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: psantos19
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+<!-- ===================================== -->
+<!--               END FILE                -->
+<!-- ===================================== -->
