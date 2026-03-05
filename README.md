@@ -200,12 +200,3 @@ pedrojgmsantos@gmail.com
 <p align="center">
   <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-<!-- ===================================== -->
-<!--        SNAKE ANIMATION WORKFLOW       -->
-<!--   CREATE FILE: .github/workflows/snake.yml -->
-<!-- ===================================== -->
-
-# Snake Animation Workflow
