@@ -190,9 +190,6 @@ Outside of engineering:
 LinkedIn  
 https://www.linkedin.com/in/pedro-santos-b05076268/
 
-Email  
-pedrojgmsantos@gmail.com
-
 ---
 
 # 🐍 Contribution Snake
