@@ -96,6 +96,10 @@ Full-stack application that allows users to locate available parking spots.
 Tech  
 `React` `JavaScript` `SQL`
 
+Repository  
+https://github.com/psantos19/spotopark
+https://github.com/psantos19/spotoparkApp
+
 ---
 
 ### 🌊 Marinha do Tejo
@@ -104,6 +108,11 @@ Frontend project developed with design students to create a clean and intuitive 
 Tech  
 `HTML` `CSS` `JavaScript`
 
+Repository
+https://github.com/luissilva60/vivaotejo
+https://github.com/luissilva60/VivaoTejoSite
+https://github.com/luissilva60/VivaoTejoSitev2
+
 ---
 
 ### 🛍️ Bandini
@@ -111,6 +120,10 @@ E-commerce platform enabling artisans to showcase and sell handmade products.
 
 Tech  
 `React` `JavaScript`
+
+Repository
+https://github.com/luissilva60/BandiniSite
+https://github.com/luissilva60/BandiniAPI
 
 ---
 
