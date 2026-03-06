@@ -166,11 +166,7 @@ https://github.com/psantos19/openhab-4.1.0
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=psantos19&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psantos19&layout=compact&theme=transparent" />
+  <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-metrics.svg" />
 </p>
 
 ---
