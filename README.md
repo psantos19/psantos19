@@ -3,39 +3,29 @@
 <!--        github.com/psantos19           -->
 <!-- ===================================== -->
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ADEF&center=true&vCenter=true&width=900&lines=Pedro+Santos;Network+Engineer+%7C+Developer;Cybersecurity+%26+Cloud+Enthusiast" />
-</p>
+<div align="left">
+<h2>Hey there, welcome! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<p align="center">
-Master's Student in Telecommunications & Computer Science Engineering  
-<br>
-Associate Connectivity & Network Engineer @ Capgemini Engineering
-</p>
+👋 I'm a Portuguese engineer who thrives at the intersection of **networking, cybersecurity, and software development**. From building full-stack applications to designing secure network architectures, I love turning complex problems into clean, working solutions.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=psantos19&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+💡 Currently completing my **Master's in Telecommunications and Computer Science Engineering** while working as an **Associate Connectivity & Network Engineer at Capgemini Engineering**. I use GitHub to document personal projects, academic experiments, networking labs, and open-source contributions.
 
----
+🚀 Eager to connect, collaborate, and grow? Feel free to reach out — let's build something great together!
 
-# 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/pedro-santos-b05076268/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:pedrojgmsantos@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
 
-I'm a Portuguese engineer passionate about **networking, cybersecurity and software development**.
+<img src="https://komarev.com/ghpvc/?username=psantos19&label=Profile%20Views&color=0e75b6&style=flat" style="margin-top: 8px;" />
 
-I use GitHub to document:
-
-- personal projects  
-- learning experiments  
-- networking & cybersecurity labs  
-- open source contributions  
-
-Currently pursuing a **Master’s in Telecommunications and Computer Science Engineering**.
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
@@ -69,88 +59,37 @@ Currently pursuing a **Master’s in Telecommunications and Computer Science Eng
 
 ---
 
-# 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p>
-
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-Routing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networking%20%26%20Routing-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Security-darkred?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Network%20Security-B22222?style=for-the-badge&logo=fortinet&logoColor=white"/>
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 > Some projects were developed under collaborative repositories or academic organizations.
 
-### 🚗 Spotopark
-Full-stack application that allows users to locate available parking spots.
-
-Tech  
-`React` `JavaScript` `SQL`
-
----
-
-### 🌊 Marinha do Tejo
-Frontend project developed with design students to create a clean and intuitive interface.
-
-Tech  
-`HTML` `CSS` `JavaScript`
+| Project | Description | Tech |
+|---|---|---|
+| 🚗 **Spotopark** | Full-stack app to locate available parking spots | `React` `JavaScript` `SQL` |
+| 🌊 **Marinha do Tejo** | Clean frontend built with design students | `HTML` `CSS` `JavaScript` |
+| 🛍️ **Bandini** | E-commerce platform for artisans to sell handmade products | `React` `JavaScript` |
+| 🛡️ **[Anti-Ransomware App](https://github.com/luissilva60/AntiRansomwareApp)** | Security app to detect and prevent ransomware activity | `Java` `Cybersecurity` |
+| 🌐 **[ADAD Frontend](https://github.com/luissilva60/ADAD-Front-end)** | Distributed applications architecture frontend | `React` `JavaScript` |
+| 🏠 **[Smart IoT Lab](https://github.com/psantos19/openhab-4.1.0)** | Smart-home automation with openHAB | `IoT` `openHAB` `Automation` |
 
 ---
 
-### 🛍️ Bandini
-E-commerce platform enabling artisans to showcase and sell handmade products.
-
-Tech  
-`React` `JavaScript`
-
----
-
-### 🛡️ Anti-Ransomware App
-
-Security application designed to detect and prevent ransomware activity.
-
-Tech  
-`Java` `Cybersecurity`
-
-Repository  
-https://github.com/luissilva60/AntiRansomwareApp
-
----
-
-### 🌐 ADAD Frontend
-
-Frontend application developed as part of a distributed applications architecture project.
-
-Tech  
-`React` `JavaScript`
-
-Repository  
-https://github.com/luissilva60/ADAD-Front-end
-
----
-
-### 🏠 Smart IoT Lab (openHAB)
-
-IoT smart environment built using **openHAB** to simulate smart-home automation and device orchestration.
-
-Tech  
-`IoT` `openHAB` `Automation`
-
-Repository  
-https://github.com/psantos19/openhab-4.1.0
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-metrics.svg" />
@@ -162,40 +101,26 @@ https://github.com/psantos19/openhab-4.1.0
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Cybersecurity  
-- Network Engineering  
-- Cloud Computing  
-- Artificial Intelligence  
+- 🔐 Cybersecurity  
+- 🌐 Network Engineering  
+- ☁️ Cloud Computing  
+- 🤖 Artificial Intelligence  
 
 Future projects will include **cybersecurity labs and networking experiments.**
 
 ---
 
-# 🧠 Interests
+## 🧠 Interests
 
 Outside of engineering:
 
-🏃 Hyrox athlete  
-🎾 Former federated tennis player  
-🌍 Erasmus student in Spain  
-📷 Photography  
-❄️ Snowboarding  
+🏃 Hyrox athlete | 🎾 Former federated tennis player | 🌍 Erasmus student in Spain | 📷 Photography | ❄️ Snowboarding
 
 ---
 
-# 🤝 Connect With Me
-
-LinkedIn  
-https://www.linkedin.com/in/pedro-santos-b05076268/
-
-Email  
-pedrojgmsantos@gmail.com
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-contribution-grid-snake.svg" />
