@@ -153,11 +153,11 @@ https://github.com/psantos19/openhab-4.1.0
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=psantos19&show_icons=true&theme=transparent" />
+<img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-metrics.svg" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psantos19&layout=compact&theme=transparent" />
+<img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-languages.svg" />
 </p>
 
 ---
@@ -204,45 +204,5 @@ pedrojgmsantos@gmail.com
 ---
 
 <!-- ===================================== -->
-<!--        SNAKE ANIMATION WORKFLOW       -->
-<!--   CREATE FILE: .github/workflows/snake.yml -->
-<!-- ===================================== -->
-
-# Snake Animation Workflow
-
-Create this file in your repository:
-
-.github/workflows/snake.yml
-
-Then paste the following content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: psantos19
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-<!-- ===================================== -->
-<!--               END FILE                -->
+<!--        github.com/psantos19           -->
 <!-- ===================================== -->
