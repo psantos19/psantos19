@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ADEF&center=true&vCenter=true&width=900&lines=Pedro+Santos;Network+Engineer+%7C+Developer;Cybersecurity+%26+Cloud+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ADEF&center=true&vCenter=true&width=900&lines=Pedro+Santos;Connectivity+%26+Network+Engineer;Networking+%7C+Cybersecurity+%7C+Distributed+Systems" />
 </p>
 
 <p align="center">
@@ -22,16 +22,25 @@ Associate Connectivity & Network Engineer @ Capgemini Engineering
 
 # 👨‍💻 About Me
 
-I'm a Portuguese engineer passionate about **networking, cybersecurity and software development**.
+I'm a Portuguese **Computer Engineering graduate** currently pursuing a **Master’s in Telecommunications and Computer Science Engineering**.
+
+My main interests include **networking, network security, cybersecurity and distributed systems**.
 
 I use GitHub to document:
 
-- personal projects  
-- learning experiments  
-- networking & cybersecurity labs  
-- open source contributions  
+- technical projects  
+- academic work  
+- networking & cybersecurity experiments  
+- learning and exploration in software and infrastructure
 
-Currently pursuing a **Master’s in Telecommunications and Computer Science Engineering**.
+---
+
+# 🎯 Technical Focus
+
+Networking  
+Network Security  
+Cybersecurity  
+Distributed Systems
 
 ---
 
@@ -97,7 +106,7 @@ Tech
 `React` `JavaScript` `SQL`
 
 Repository  
-https://github.com/psantos19/spotopark </br>
+https://github.com/psantos19/spotopark  
 https://github.com/psantos19/spotoparkApp
 
 ---
@@ -108,9 +117,9 @@ Frontend project developed with design students to create a clean and intuitive 
 Tech  
 `HTML` `CSS` `JavaScript`
 
-Repository </br>
-https://github.com/luissilva60/vivaotejo </br>
-https://github.com/luissilva60/VivaoTejoSite </br>
+Repository  
+https://github.com/luissilva60/vivaotejo  
+https://github.com/luissilva60/VivaoTejoSite  
 https://github.com/luissilva60/VivaoTejoSitev2
 
 ---
@@ -121,8 +130,8 @@ E-commerce platform enabling artisans to showcase and sell handmade products.
 Tech  
 `React` `JavaScript`
 
-Repository </br>
-https://github.com/luissilva60/BandiniSite </br>
+Repository  
+https://github.com/luissilva60/BandiniSite  
 https://github.com/luissilva60/BandiniAPI
 
 ---
@@ -165,12 +174,12 @@ https://github.com/psantos19/openhab-4.1.0
 
 # 🌱 Currently Learning
 
-- Cybersecurity  
-- Network Engineering  
-- Cloud Computing  
-- Artificial Intelligence  
+Cybersecurity fundamentals  
+Network analysis and security tools  
+Cloud infrastructure concepts  
+Distributed systems architecture
 
-Future projects will include **cybersecurity labs and networking experiments.**
+Future projects will include **cybersecurity labs and networking experiments**.
 
 ---
 
