@@ -163,14 +163,6 @@ https://github.com/psantos19/openhab-4.1.0
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-metrics.svg" />
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Cybersecurity  
@@ -198,11 +190,3 @@ Outside of engineering:
 
 LinkedIn  
 https://www.linkedin.com/in/pedro-santos-b05076268/
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/psantos19/psantos19/output/github-contribution-grid-snake.svg" />
-</p>
